@@ -1,0 +1,38 @@
+body {
+  margin: 10px 100px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+div p1 {
+  font-size: 18px;
+}
+p {
+  width: 600px;
+}
+
+.inicio {
+  background-color: FloralWhite;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cinza {
+  background-color: gainsboro;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.direita {
+  background-color: FloralWhite;
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  align-items: flex-end;
+}
