@@ -5,6 +5,7 @@ body {
 body {
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
 }
 div p1 {
   font-size: 18px;
